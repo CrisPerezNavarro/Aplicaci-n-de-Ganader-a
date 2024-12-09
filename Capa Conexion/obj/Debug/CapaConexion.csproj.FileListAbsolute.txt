@@ -1,0 +1,6 @@
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\Biblioteca\Capa Conexion.dll
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\Biblioteca\Capa Conexion.pdb
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\Capa Conexion\obj\Debug\CapaConexion.csproj.AssemblyReference.cache
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\Capa Conexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\Capa Conexion\obj\Debug\Capa Conexion.dll
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\Capa Conexion\obj\Debug\Capa Conexion.pdb

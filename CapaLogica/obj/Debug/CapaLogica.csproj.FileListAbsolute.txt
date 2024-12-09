@@ -1,0 +1,16 @@
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\Biblioteca\CapaLogica.dll
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\Biblioteca\CapaLogica.pdb
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaLogica\obj\Debug\CapaLogica.dll
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaLogica\obj\Debug\CapaLogica.pdb
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\Biblioteca\CapaLogica.dll.config
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\Biblioteca\CapaLogica.dll.config
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\Biblioteca\CapaLogica.dll
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\Biblioteca\CapaLogica.pdb
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaLogica\obj\Debug\CapaLogica.dll
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaLogica\obj\Debug\CapaLogica.pdb

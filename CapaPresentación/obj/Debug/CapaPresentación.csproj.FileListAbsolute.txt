@@ -1,0 +1,62 @@
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\bin\Debug\CapaPresentación.exe.config
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\bin\Debug\CapaPresentación.exe
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\bin\Debug\CapaPresentación.pdb
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\obj\Debug\CapaPresentación.csproj.AssemblyReference.cache
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\obj\Debug\CapaPresentación.csproj.SuggestedBindingRedirects.cache
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\obj\Debug\CapaPresentación.Properties.Resources.resources
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\obj\Debug\CapaPresentación.csproj.GenerateResource.cache
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\obj\Debug\CapaPresentación.csproj.CoreCompileInputs.cache
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\obj\Debug\CapaPresentación.exe
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\obj\Debug\CapaPresentación.pdb
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\bin\Debug\CapaIntegracion.dll
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\bin\Debug\CapaIntegracion.pdb
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\obj\Debug\CapaPresentación.csproj.CopyComplete
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\bin\Debug\Capa Conexion.dll
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\bin\Debug\CapaLogica.dll
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\bin\Debug\Capa Conexion.pdb
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\bin\Debug\CapaLogica.pdb
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\bin\Debug\CapaLogica.dll.config
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.Principal.resources
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.ConsultarProducto.resources
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.ConsultarRes.resources
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.ConsultarTratamiento.resources
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.EliminarRes.resources
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.GastoAlimento.resources
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.IngresarAlimento.resources
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.IngresarVacunas.resources
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.modoficarRes.resources
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.RegistroVacuno.resources
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.Tratamiento.resources
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.VacunaUsada.resources
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaPresentación\obj\Debug\CapaPresentación.Reporte.resources
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\bin\Debug\CapaPresentación.exe.config
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\bin\Debug\CapaPresentación.exe
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\bin\Debug\CapaPresentación.pdb
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\bin\Debug\Capa Conexion.dll
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\bin\Debug\CapaIntegracion.dll
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\bin\Debug\CapaLogica.dll
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\bin\Debug\Capa Conexion.pdb
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\bin\Debug\CapaIntegracion.pdb
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\bin\Debug\CapaLogica.pdb
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\bin\Debug\CapaLogica.dll.config
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\obj\Debug\CapaPresentación.csproj.AssemblyReference.cache
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\obj\Debug\CapaPresentación.csproj.SuggestedBindingRedirects.cache
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.ConsultarProducto.resources
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.ConsultarRes.resources
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.ConsultarTratamiento.resources
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.EliminarRes.resources
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.GastoAlimento.resources
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.IngresarAlimento.resources
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.IngresarVacunas.resources
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.modoficarRes.resources
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.Principal.resources
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\obj\Debug\CapaPresentación.Properties.Resources.resources
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.RegistroVacuno.resources
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\obj\Debug\CapaPresentación.Reporte.resources
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.Tratamiento.resources
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\obj\Debug\Registro_Vacuno.VacunaUsada.resources
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\obj\Debug\CapaPresentación.csproj.GenerateResource.cache
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\obj\Debug\CapaPresentación.csproj.CoreCompileInputs.cache
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\obj\Debug\CapaPresentación.csproj.CopyComplete
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\obj\Debug\CapaPresentación.exe
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaPresentación\obj\Debug\CapaPresentación.pdb

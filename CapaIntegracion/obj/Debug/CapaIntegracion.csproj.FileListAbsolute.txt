@@ -1,0 +1,14 @@
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\Biblioteca\CapaIntegracion.dll
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\Biblioteca\CapaIntegracion.pdb
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.AssemblyReference.cache
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+D:\Univercidad\UCR\Analisis y diseño de sistemas\Proyecto\CMJ\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\Biblioteca\CapaIntegracion.dll
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\Biblioteca\CapaIntegracion.pdb
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.AssemblyReference.cache
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+D:\Univercidad\UCR\Ingenieria\Proyecto\CMJ\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
